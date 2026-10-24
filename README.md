@@ -10,7 +10,9 @@
   <a href="https://x.com/rabidberry">twitter</a>
 
   <p align="center">
-    because of you , i swear<br/>
-    i'm different now . . .
+    <span style="color: #EAC790;">
+      you're all i have in<br/>
+      this fucking world ...
+    </span>
   </p>
 </div>
