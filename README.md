@@ -4,15 +4,21 @@
 
 <br/>
 
-<div align="center" style="width: 250px; margin: auto;">
-  <a href="https://wifi.atabook.org/">ata</a>
-  &nbsp;&nbsp;
-  <a href="https://strawberryfag.straw.page">straw</a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/rabidberry">twitter</a>
+<div align="center">
+  <div style="width: 250px; margin: 0 auto;">
 
-  <p align="left">
-    cause ive been saving<br/>
-    myself for you . . .
-  </p>
+    <div align="center">
+      <a href="https://wifi.atabook.org/">ata</a>
+      &nbsp;&nbsp;
+      <a href="https://strawberryfag.straw.page">straw</a>
+      &nbsp;&nbsp;
+      <a href="https://x.com/rabidberry">twitter</a>
+    </div>
+
+    <p align="center">
+      txtxtxtxtxtxtxtxtxtx<br/>
+      txtxtxtxtxtxtxtxtxtx
+    </p>
+
+  </div>
 </div>
