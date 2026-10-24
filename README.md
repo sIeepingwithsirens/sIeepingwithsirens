@@ -9,11 +9,7 @@
   &nbsp;&nbsp;
   <a href="https://x.com/rabidberry">twitter</a>
 
-  <p align="center">
-    <font color="#EAC790">
-      im  losing  you ,<br/>
-      i  dont  know
-      what  to  do . . . 
-    </font>
-  </p>
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=14&duration=999999&pause=999999&color=EAC790&center=true&vCenter=true&width=300&height=60&lines=im+%20losing%20%20you%2C; i+dont+know;what+to+do+.+.+." />
 </div>
