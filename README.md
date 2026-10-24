@@ -10,9 +10,10 @@
   <a href="https://x.com/rabidberry">twitter</a>
 
   <p align="center">
-    <span style="color: #EAC790;">
-      you're all i have in<br/>
-      this fucking world ...
-    </span>
+    <font color="#EAC790">
+      im  losing  you ,<br/>
+      i  dont  know
+      what  to  do . . . 
+    </font>
   </p>
 </div>
