@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://files.catbox.moe/o8c0wo.png" width="400" />
+</div>
 
-<!--
-**sIeepingwithsirens/sIeepingwithsirens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center" style="width: 250px; margin: auto;">
+  <a href="https://wifi.atabook.org/">ata</a>
+  &nbsp;&nbsp;
+  <a href="https://strawberryfag.straw.page">straw</a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/rabidberry">twitter</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="left">
+    cause ive been saving<br/>
+    myself for you . . .
+  </p>
+</div>
