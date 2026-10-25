@@ -10,8 +10,7 @@
   <a href="https://x.com/rabidberry">twitter</a>
 
   <p align="center">
-im  losing  you ,<br/>
-i  dont  know <br/>
-what  to  do . . . <br/>
+is  my  annabel,<br/>
+really  gone . . .?
   </p>
 </div>
