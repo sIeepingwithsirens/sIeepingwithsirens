@@ -11,7 +11,7 @@
 
   <p align="center">
 im  losing  you ,<br/>
-      i  dont  know
-      what  to  do . . .
+      i  dont  know <br/>
+      what  to  do . . . <br/>
   </p>
 </div>
