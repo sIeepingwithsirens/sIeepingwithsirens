@@ -11,5 +11,5 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=14&duration=999999&pause=999999&color=EAC790&center=true&vCenter=true&width=300&height=60&lines=im+%20losing%20%20you%2C; i+dont+know;what+to+do+.+.+." />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=14&color=EAC790&center=true&width=300&height=50&lines=im+losing+you%2C; i+dont+know;what+to+do+.+.+." alt="im losing you, i dont know what to do..." />
 </div>
